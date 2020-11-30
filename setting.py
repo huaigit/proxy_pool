@@ -28,7 +28,7 @@ BANNER = r"""
 VERSION = "2.1.1"
 
 # ############### server config ###############
-HOST = "0.0.0.0"
+HOST = "127.0.0.1"
 
 PORT = 5010
 
